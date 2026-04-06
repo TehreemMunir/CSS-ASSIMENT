@@ -1,0 +1,35 @@
+
+body:hover {
+    background-color: #fce4ec; /* light pink */
+    font-family: 'Arial', sans-serif;
+}
+
+
+h1 {
+    color: #880e4f; 
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+p {
+    color: #4a148c;
+    font-size: 18px;
+    line-height: 1.6;
+    font-family: 'Georgia', serif;
+}
+
+ul {
+    color: #00695c;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+button:hover {
+    background-color: #d81b60; 
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+}
